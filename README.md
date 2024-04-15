@@ -1,9 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=E52700%20&fontColor=E52700&reversal=true"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=2000&pause=200&color=BD3731&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=%3CHello+world!%3E;My+name+is+Igor;%3CI'm+a+young+developer%3E;and+i'm+from+Brazil+%3AD)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&vCenter=true&random=false&width=435&lines=%3Chello+world!+my+name+is+igor%3E;I'm+a+young+developer+from+Brazil)](https://git.io/typing-svg)
 
 - I was born in 2008, and since I was little, I've been fascinated by the idea of programming something and creating. So nowadays, I'm taking some technical courses in analysis and systems development. I intend to attend college focused on this area. The fields that interest me the most are database management, web development, and game development. I'd also like to study UI and UX, but it's not my main focus.
 ---
