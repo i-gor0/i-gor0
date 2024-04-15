@@ -1,7 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=E52700%20&fontColor=E52700&reversal=true"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=#2722E0"/>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&vCenter=true&random=false&width=435&lines=%3Chello+world!+my+name+is+igor%3E;I'm+a+young+developer+from+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=90h0&size=30&duration=4000&pause=1000&vCenter=true&random=false&width=435&lines=%3CHello+world!%3E;My+name+is+Igor;%3CAnd+i'm+from+Brazil+%3AD%3E)](https://git.io/typing-svg)
 
 - I was born in 2008, and since I was little, I've been fascinated by the idea of programming something and creating. So nowadays, I'm taking some technical courses in analysis and systems development. I intend to attend college focused on this area. The fields that interest me the most are database management, web development, and game development. I'd also like to study UI and UX, but it's not my main focus.
 ---
@@ -56,17 +55,17 @@
 ---
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dsouloficial&bg_color=161B22&color=9e9e9e&line=d6a8d3&point=91698e&area=true&hide_border=true "/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=i-gor0&bg_color=161B22&color=9e9e9e&line=d6a8d3&point=91698e&area=true&hide_border=true "/>
   </a>
 
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{dsouloficial}/count.svg" /></p> 
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{i-gor0}/count.svg" /></p> 
   <br>
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=E0003C"/>
 
 <!--
 **i-gor0/i-gor0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
