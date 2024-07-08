@@ -51,7 +51,7 @@
 ### Other
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-23114B?style=for-the-badge&logo=visualstudio&logoColor=white)
-
+![My sql](https://img.shields.io/badge/Mysql-354BA0?style=for-the-badge&logo=mysql)
 ![Windows](https://img.shields.io/badge/Windows-%20078D6.svg?style=for-the-badge&logo=Windows&logoColor=white) 
 
 ---
