@@ -6,7 +6,7 @@
 ---
 
 - 💻 I'm a beginner Developer
-- 💪 I already counted on: `.CSS3` | `.HTML5` ;
+- 💪 I already counted on:  ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)&nbsp; | `.HTML5` ;
 - ❤ I intend to be full stack.
 ---- 
 
