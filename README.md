@@ -27,11 +27,11 @@
 
 ### connect with me:
 <div>
-
   <a href="https://www.instagram.com/igor.antt/" target="_blank">
     <img height="28" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="www.linkedin.com/in/igor-antunes-aab13a30a" target="_blank">
+  
+  <a href="https:www.linkedin.com/in/igor-antunes-aab13a30a" target="_blank">
     <img height="28" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
