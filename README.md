@@ -31,6 +31,9 @@
   <a href="https://www.instagram.com/igor.antt/" target="_blank">
     <img height="28" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
+  <a href="www.linkedin.com/in/igor-antunes-aab13a30a" target="_blank">
+    <img height="28" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 </div>
 
 
@@ -51,7 +54,9 @@
 ### Other
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-23114B?style=for-the-badge&logo=visualstudio&logoColor=white)
-![My sql](https://img.shields.io/badge/Mysql-354BA0?style=for-the-badge&logo=mysql)
+
+![My sql](https://img.shields.io/badge/Mysql-354BA0?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![Windows](https://img.shields.io/badge/Windows-%20078D6.svg?style=for-the-badge&logo=Windows&logoColor=white) 
 
 ---
