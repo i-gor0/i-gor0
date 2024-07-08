@@ -53,19 +53,6 @@
 ![Windows](https://img.shields.io/badge/Windows-%20078D6.svg?style=for-the-badge&logo=Windows&logoColor=white) 
 
 ---
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=i-gor0&bg_color=161B22&color=9e9e9e&line=d6a8d3&point=91698e&area=true&hide_border=true "/>
-  </a>
-
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{i-gor0}/count.svg" /></p> 
-  <br>
-</div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=E0003C"/>
 
 <!--
 **i-gor0/i-gor0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
