@@ -43,6 +43,8 @@
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub-copilot](https://img.shields.io/badge/github%20copilot-purple?style=for-the-badge&logo=githubcopilot&logoSize=amg)
+
 
 
 
