@@ -22,7 +22,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=i-gor0&theme=git-dark&hide_border=true&border_radius=9&locale=pt_BR&date_format=j%20M%5B%20Y%5D" /> 
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-gor0&layout=compact&hide_border=true&title_color=00FF7F&text_color=ff91a4&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-gor0&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 ### connect with me:
